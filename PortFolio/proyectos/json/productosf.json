@@ -1,0 +1,22 @@
+{
+    "titulotienda" : "Projects by JaviiQntanaa25",
+    "productos" : [
+      {
+        "nombre" : "Proyecto freelancer",
+        "link" : "Url del proyecto: https://javiiqntanaa25.github.io/dawfreelance/ ",
+        "imagen" : "../IMG/iconofl.png"
+        
+      },
+      {
+        "nombre" : "QR code",
+        "link" : "Url del proyecto: https://javiiqntanaa25.github.io/dawQRCODE/ ",
+        "imagen" : "../IMG/iconoqr.png"
+      },
+      {
+        "nombre" : "Tienda MangaYA",
+        "link" : "Url del proyecto: https://github.com/Javiiqntanaa25/TiendaAnime",
+        "imagen" : "../IMG/iconomy.png"
+      }
+    ]
+
+  }
